@@ -2,7 +2,7 @@
 
 ## Description
 
-This Refactoring the Starter Code was created for a challenge which refactoring the starter code to meet accessibility atandards. It is a webpage consist of HTML, CSS.
+This Refactoring the Starter Code was created for a challenge which refactoring the starter code to meet accessibility standards. It is a webpage consist of HTML, CSS.
 
 ## Screenshot
 

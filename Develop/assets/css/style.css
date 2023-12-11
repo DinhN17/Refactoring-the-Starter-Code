@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header fixed on top */
 header {
     position: fixed;
     padding: 20px;
@@ -35,6 +36,7 @@ h2 {
     font-size: 36px;
 }
 
+/* Smaller h2 for footer */
 #footer_h2 {
     font-size: 20px;
 }
@@ -44,10 +46,12 @@ h3 {
     text-align: center;
 }
 
+/* Change color of 'seo' in the name Horiseon */
 #header_seo{
     color: #d9dcd6;
 }
 
+/* nav align to the right */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -85,12 +89,14 @@ p {
     margin-left: 25px;
 }
 
+/* Save 25% of screen width for the right side bar */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* For section element inside the main content */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -101,10 +107,12 @@ main {
     display: inline-block;
 }
 
+/* For img element inside the main content */
 .main-section img {
     max-height: 200px;
 }
 
+/* The right side bar use 20% of screen width on the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -116,11 +124,13 @@ aside {
     background-color: #2589bd;
 }
 
+/* For section element inside the right side bar */
 .aside-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* For img element inside the right side bar */
 .aside-section img {
     display: block;
     margin: 10px auto;
